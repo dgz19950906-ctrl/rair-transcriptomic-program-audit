@@ -1,0 +1,8 @@
+stage	count	note
+Database retrieval	959	PubMed 702; Europe PMC 157; Semantic Scholar top 100 of 242
+Database deduplication	797	PMID, DOI and title deduplication
+Citation expansion	95	Eight seed studies; rate-limited routes declared
+Title/abstract screening	892	Frozen master index
+Excluded before full-text/code audit	870	Title/abstract exclusions
+Full-text/code audit	22	21 database records plus one supplementary-source study
+GEO datasets reported separately	27	Datasets, not article records

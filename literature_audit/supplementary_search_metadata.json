@@ -1,0 +1,25 @@
+{
+  "search_date": "2026-07-12",
+  "reports": [
+    {
+      "database": "Semantic Scholar",
+      "query": "radioiodine refractory thyroid cancer transcriptomic gene expression signature",
+      "reported_total": 242,
+      "retrieved": 100,
+      "limitation": "Top 100 relevance-ranked results only; API rate limiting prevented exhaustive retrieval. This source is a supplementary sensitivity search, not an exhaustive database export."
+    },
+    {
+      "database": "NCBI GEO DataSets",
+      "query": "(thyroid[All Fields]) AND (radioiodine[All Fields] OR \"radioactive iodine\"[All Fields] OR RAIR[All Fields] OR \"iodine avidity\"[All Fields]) AND \"Homo sapiens\"[Organism]",
+      "reported_total": 27,
+      "retrieved": 27
+    },
+    {
+      "database": "Europe PMC",
+      "query": "((TITLE_ABS:\"radioiodine\" OR TITLE_ABS:\"radioactive iodine\" OR TITLE_ABS:\"iodine avidity\" OR TITLE_ABS:\"RAIR\") AND (TITLE_ABS:\"thyroid cancer\" OR TITLE_ABS:\"thyroid carcinoma\") AND (TITLE_ABS:transcriptom* OR TITLE_ABS:\"gene expression\" OR TITLE_ABS:signature OR TITLE_ABS:\"RNA-seq\" OR TITLE_ABS:microarray)) AND FIRST_PDATE:[1900-01-01 TO 2026-07-12]",
+      "reported_total": 157,
+      "retrieved": 157
+    }
+  ],
+  "errors": []
+}

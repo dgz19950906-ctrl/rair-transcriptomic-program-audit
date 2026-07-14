@@ -1,0 +1,28 @@
+vancouver_number	citekey	verification_status	pmid	doi	title
+1	Ringel2025ATA	OK	40844370	10.1177/10507256251363120	2025 American Thyroid Association Management Guidelines for Adult Patients with Differentiated Thyroid Cancer
+2	Fugazzola2019ETA	OK	31768334	10.1159/000502229	2019 European Thyroid Association Guidelines for the Treatment and Follow-Up of Advanced Radioiodine-Refractory Thyroid Cancer
+3	Condello2025IodineAvidity	OK	39982585	10.1007/s12022-025-09849-0	Comprehensive Gene Expression Analysis in Papillary Thyroid Carcinoma Reveals a Transcriptional Profile Associated with Reduced Radioiodine Avidity
+4	Colombo2020RAIProfiles	OK	33198784	10.1186/s13046-020-01757-x	The molecular and gene/miRNA expression profiles of radioiodine resistant papillary thyroid cancer
+5	Boucai2023RAI	OK	36780190	10.1158/1078-0432.ccr-22-2882	Genomic and Transcriptomic Characteristics of Metastatic Thyroid Cancers with Exceptional Responses to Radioactive Iodine Therapy
+6	TCGA2014THCA	OK	25417114	10.1016/j.cell.2014.09.050	Integrated genomic characterization of papillary thyroid carcinoma
+7	Qiu2015RAI	OK	25682061	10.1016/j.nucmedbio.2015.01.009	Differential expression profiling of circulation microRNAs in PTC patients with non-131I and 131I-avid lungs metastases: a pilot study
+8	Liu2022RAI	OK	35634509	10.3389/fendo.2022.865909	Construction of a Signature Model to Predict the Radioactive Iodine Response of Papillary Thyroid Cancer
+9	Wang2026RAI	OK	42232186	10.3389/fphar.2026.1789743	A RAIR-ATC transcriptional axis and multimodal drug-response modelling reveal class-level vulnerabilities in thyroid cancer
+10	Pu2021PTCEcosystem	OK	34663816	10.1038/s41467-021-26343-3	Single-cell transcriptomic analysis of the tumor ecosystems underlying initiation and progression of papillary thyroid carcinoma
+11	Wang2022BilateralPTC	OK	35515000	10.3389/fimmu.2022.840811	Single-Cell Transcriptome Analysis Reveals Inter-Tumor Heterogeneity in Bilateral Papillary Thyroid Carcinoma
+12	Guo2025CAYAPTC	OK	40719066	10.1002/advs.202417672	Single-Cell RNA Sequencing Reveals the Heterogeneity in Differentiation Trajectory and Tumor Microenvironment Leading to More Aggressive Phenotypes of Papillary Thyroid Cancer in Children and Young Adult Patients
+13	Pakarulrazy2025GSE299988	OK	40746809	10.7759/cureus.87001	Gene Expression Analysis of Papillary Thyroid Carcinoma With Lymph Node Metastasis and Radioiodine Refractivity
+14	Subramanian2005GSEA	OK	16199517	10.1073/pnas.0506580102	Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles
+15	Liberzon2015Hallmark	OK	26771021	10.1016/j.cels.2015.12.004	The Molecular Signatures Database Hallmark Gene Set Collection
+16	Hedges1981EffectSize	OK			Distribution Theory for Glass's Estimator of Effect Size and Related Estimators
+17	Efron1979Bootstrap	OK			Bootstrap Methods: Another Look at the Jackknife
+18	BenjaminiHochberg1995	OK			Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing
+19	PhipsonSmyth2010	OK	21044043	10.2202/1544-6115.1585	Permutation P-values should never be zero: calculating exact P-values when permutations are randomly drawn
+20	Horn1965ParallelAnalysis	OK	14306381	10.1007/bf02289447	A rationale and test for the number of factors in factor analysis
+21	Hao2024SeuratV5	OK	37231261	10.1038/s41587-023-01767-y	Dictionary learning for integrative, multimodal and scalable single-cell analysis
+22	McGinnis2019DoubletFinder	OK	30954475	10.1016/j.cels.2019.03.003	DoubletFinder: Doublet Detection in Single-Cell RNA Sequencing Data Using Artificial Nearest Neighbors
+23	Haghverdi2018MNN	OK	29608177	10.1038/nbt.4091	Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors
+24	Korsunsky2019Harmony	OK	31740819	10.1038/s41592-019-0619-0	Fast, sensitive and accurate integration of single-cell data with Harmony
+25	Aran2019SingleR	OK	30643263	10.1038/s41590-018-0276-y	Reference-based analysis of lung single-cell sequencing reveals a transitional profibrotic macrophage
+26	Mabbott2013HPCA	OK	24053356	10.1186/1471-2164-14-632	An expression atlas of human primary cells: inference of gene function from coexpression networks
+27	Crowell2020Muscat	OK	33257685	10.1038/s41467-020-19894-4	muscat detects subpopulation-specific state transitions from multi-sample multi-condition single-cell transcriptomics data

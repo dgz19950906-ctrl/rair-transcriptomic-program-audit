@@ -1,0 +1,25 @@
+program	dimension	display	domain
+TDS-16	Intended | construct	Thyroid | differentiation	Provenance
+TDS-16	Recovery	Exact 16-gene | biological proxy	Provenance
+TDS-16	Clinical alignment | Hedges' g	U +0.16 | R -0.24	Endpoint/robustness
+TDS-16	LOPO direction | U / R	11/13 U | 10/11 R	Endpoint/robustness
+TDS-16	Matched-random | calibration	Not extreme | P 0.720 / 0.507	Endpoint/robustness
+TDS-16	RAI/LN challenge	U +0.16 to -0.99 | No robust | increment	Confounding
+TDS-16	Cell compartment	Thyroid cells | 3/3 atlases; | AND pass	Compartment
+TDS-16	Allowed | classification	Lineage proxy; | not RAIR- | specific	Interpretation
+Iodide handling-11	Intended | construct	Iodide-handling | physiology	Provenance
+Iodide handling-11	Recovery	Exact 11-gene | prespecified | reference	Provenance
+Iodide handling-11	Clinical alignment | Hedges' g	U +0.22 | R -0.06	Endpoint/robustness
+Iodide handling-11	LOPO direction | U / R	12/13 U | 7/11 R	Endpoint/robustness
+Iodide handling-11	Matched-random | calibration	Not extreme | P 0.610 / 0.843	Endpoint/robustness
+Iodide handling-11	RAI/LN challenge	U +0.22 to -0.82 | No robust | increment	Confounding
+Iodide handling-11	Cell compartment	Thyroid cells | 3/3 atlases; | AND pass	Compartment
+Iodide handling-11	Allowed | classification	Physiology proxy; | not RAIR- | specific	Interpretation
+Condello-6	Intended | construct	Ex vivo iodine | content	Provenance
+Condello-6	Recovery	Partial 6-gene | subset	Provenance
+Condello-6	Clinical alignment | Hedges' g	U -0.11 | R +0.32	Endpoint/robustness
+Condello-6	LOPO direction | U / R	10/13 U | 10/11 R	Endpoint/robustness
+Condello-6	Matched-random | calibration	Not extreme | P 0.827 / 0.467	Endpoint/robustness
+Condello-6	RAI/LN challenge	U -0.11 to +1.10 | No robust | increment	Confounding
+Condello-6	Cell compartment	T/NK cells | 3/3 atlases; | AND pass	Compartment
+Condello-6	Allowed | classification	Immune-composition- | sensitive | ex vivo candidate	Interpretation

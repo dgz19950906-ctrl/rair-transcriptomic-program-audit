@@ -1,0 +1,19 @@
+variable	analysis_group	level	n	fisher_exact_p
+tumor_purity_class	RAI_avid_remission	high purity	2	0.660633484162896
+tumor_purity_class	RAI_avid_persistent	high purity	5	0.660633484162896
+tumor_purity_class	RAI_nonavid_persistent	high purity	5	0.660633484162896
+tumor_purity_class	RAI_avid_remission	low purity	2	0.660633484162896
+tumor_purity_class	RAI_avid_persistent	low purity	2	0.660633484162896
+tumor_purity_class	RAI_nonavid_persistent	low purity	1	0.660633484162896
+lesion_class	RAI_avid_remission	BRAFV600E	1	0.271316918375742
+lesion_class	RAI_avid_persistent	BRAFV600E	2	0.271316918375742
+lesion_class	RAI_nonavid_persistent	BRAFV600E	3	0.271316918375742
+lesion_class	RAI_avid_remission	Fusion	1	0.271316918375742
+lesion_class	RAI_avid_persistent	Fusion	4	0.271316918375742
+lesion_class	RAI_nonavid_persistent	Fusion	0	0.271316918375742
+lesion_class	RAI_avid_remission	WT	2	0.271316918375742
+lesion_class	RAI_avid_persistent	WT	1	0.271316918375742
+lesion_class	RAI_nonavid_persistent	WT	3	0.271316918375742
+histological_variant	RAI_avid_remission	Classical	4	NA
+histological_variant	RAI_avid_persistent	Classical	7	NA
+histological_variant	RAI_nonavid_persistent	Classical	6	NA

@@ -1,0 +1,19 @@
+signature_id	annotation_method	lodo_same	lodo_total	three_atlas	gate_pass	program	method	label
+CONDELLO_2025_SIX	primary_hybrid	11	11	TRUE	TRUE	Condello-6	Primary hybrid	11/11
+3-atlas +
+IODIDE_HANDLING_11	primary_hybrid	11	11	TRUE	TRUE	Iodide handling-11	Primary hybrid	11/11
+3-atlas +
+TDS_16	primary_hybrid	11	11	TRUE	TRUE	TDS-16	Primary hybrid	11/11
+3-atlas +
+CONDELLO_2025_SIX	leave_program_genes_out_hybrid	11	11	TRUE	TRUE	Condello-6	Leave-program-genes-out	11/11
+3-atlas +
+CONDELLO_2025_SIX	SingleR_only	11	11	TRUE	TRUE	Condello-6	SingleR only	11/11
+3-atlas +
+IODIDE_HANDLING_11	leave_program_genes_out_hybrid	11	11	TRUE	TRUE	Iodide handling-11	Leave-program-genes-out	11/11
+3-atlas +
+IODIDE_HANDLING_11	SingleR_only	11	11	TRUE	TRUE	Iodide handling-11	SingleR only	11/11
+3-atlas +
+TDS_16	leave_program_genes_out_hybrid	11	11	TRUE	TRUE	TDS-16	Leave-program-genes-out	11/11
+3-atlas +
+TDS_16	SingleR_only	11	11	TRUE	TRUE	TDS-16	SingleR only	11/11
+3-atlas +

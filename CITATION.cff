@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this audit framework, code or source data, please cite the accompanying manuscript and this software release."
+title: "RAIR transcriptomic program portability audit"
+type: software
+authors:
+  - family-names: Dong
+    given-names: Guozhang
+    email: dgz_1995@foxmail.com
+    affiliation: "Department of Head & Neck Surgery, The Affiliated Cancer Hospital of Nanjing Medical University & Jiangsu Cancer Hospital & Jiangsu Institute of Cancer Research, Nanjing 210009, China"
+  - family-names: Zhao
+    given-names: Yanbin
+    email: 360348468@qq.com
+    affiliation: "Department of Head & Neck Surgery, The Affiliated Cancer Hospital of Nanjing Medical University & Jiangsu Cancer Hospital & Jiangsu Institute of Cancer Research, Nanjing 210009, China"
+version: 1.0.0
+date-released: 2026-07-14
+license: MIT
+repository-code: "https://github.com/dgz19950906-ctrl/rair-transcriptomic-program-audit"
+url: "https://github.com/dgz19950906-ctrl/rair-transcriptomic-program-audit/releases/tag/v1.0.0"
+keywords:
+  - radioiodine-refractory thyroid cancer
+  - transcriptomics
+  - reproducibility audit
+  - endpoint alignment
+  - confounding
+  - single-cell RNA sequencing

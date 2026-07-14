@@ -1,0 +1,11 @@
+workbook_column	geo_accession	analysis_group	rai_status	ln_status
+APTC1	GSM9051400	RAI_avid_LN_negative	avid	negative
+APTC2	GSM9051401	RAI_avid_LN_negative	avid	negative
+APTC3	GSM9051402	RAI_avid_LN_negative	avid	negative
+APTC4	GSM9051403	RAI_avid_LN_negative	avid	negative
+APTC5	GSM9051404	RAI_avid_LN_negative	avid	negative
+NaPTC1	GSM9051405	RAI_nonavid_LN_positive	nonavid	positive
+NaPTC2	GSM9051406	RAI_nonavid_LN_positive	nonavid	positive
+NaPTC3	GSM9051407	RAI_nonavid_LN_positive	nonavid	positive
+NaPTC4	GSM9051408	RAI_nonavid_LN_positive	nonavid	positive
+NaPTC5	GSM9051409	RAI_nonavid_LN_positive	nonavid	positive

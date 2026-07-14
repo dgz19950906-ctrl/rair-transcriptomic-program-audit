@@ -1,0 +1,10 @@
+.DS_Store
+*.Rhistory
+*.RData
+*.rds
+*.h5ad
+*.h5
+*.loom
+*.tmp
+raw/
+processed/

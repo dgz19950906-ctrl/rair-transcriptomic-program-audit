@@ -1,0 +1,12 @@
+Except where otherwise stated, original source tables, derived tables and
+documentation created for this audit are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution should identify Guozhang Dong and Yanbin Zhao and cite the
+accompanying manuscript and archived repository release.
+
+This notice does not relicense third-party GEO datasets, literature abstracts,
+externally defined gene sets or other material owned by external providers.
+Those materials remain subject to their original terms.

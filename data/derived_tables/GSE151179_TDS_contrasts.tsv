@@ -1,0 +1,4 @@
+contrast	adverse_group	reference_group	n_adverse	n_reference	mean_adverse	mean_reference	mean_difference_adverse_minus_reference	hedges_g	exact_two_sided_permutation_p	leave_one_patient_out_direction_stability
+uptake_failure	RAI_nonavid_persistent	RAI_avid_persistent	6	7	-0.0336942456187213	0.0761594959063273	-0.109853741525049	-0.163465779504542	0.749563191613279	0.846153846153846
+response_failure_with_uptake	RAI_avid_persistent	RAI_avid_remission	7	4	0.0761594959063273	-0.0827377494079892	0.158897245314316	0.243554946810085	0.688821752265861	0.909090909090909
+broad_persistence	PERSISTENT_COMBINED	RAI_avid_remission	13	4	0.0254577690486125	-0.0827377494079892	0.108195518456602	0.171679631525895	0.75682486350273	0.941176470588235

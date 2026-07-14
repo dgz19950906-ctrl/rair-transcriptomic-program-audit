@@ -1,0 +1,3 @@
+cohort	retained_components	min_canonical_correlation_median	min_canonical_correlation_q025	min_canonical_correlation_q975	projection_distance_median	cumulative_variance_median
+GSE151179	2	0.981646554681849	0.727716480490465	0.998459142958955	0.288149266030729	0.860045
+GSE299988	2	0.964864336606375	0.605611355880704	0.996791764905684	0.398858874839301	0.87923

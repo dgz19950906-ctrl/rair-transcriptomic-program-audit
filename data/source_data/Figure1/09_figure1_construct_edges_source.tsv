@@ -1,0 +1,4 @@
+construct_1	construct_2	evidence_type	annotation	causal_interpretation
+Ex vivo iodine content	Clinical lesion uptake	observed in current audit	Condello-6 did not positively align with clinical uptake failure (adverse-oriented g = -0.11)	none
+Clinical lesion uptake	Structural treatment response	external clinical context	Uptake and structural response are distinct clinical measurements (Boucai context)	none
+Ex vivo iodine content	Structural treatment response	untested	No paired public transcriptomic dataset tested this bridge	none

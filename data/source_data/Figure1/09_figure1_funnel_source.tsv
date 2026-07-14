@@ -1,0 +1,7 @@
+level	criterion	strict_sequential_full_count	denominator	counting_rule
+1	Radioiodine-related expression claim present	22	22	Full satisfaction at this and every preceding level; partial evidence not counted as a pass
+2	Clinical or biological endpoint recoverable	15	22	Full satisfaction at this and every preceding level; partial evidence not counted as a pass
+3	Genes, directions and formula recoverable	5	22	Full satisfaction at this and every preceding level; partial evidence not counted as a pass
+4	Paper and public code endpoint-consistent	1	22	Full satisfaction at this and every preceding level; partial evidence not counted as a pass
+5	Patient, tissue site and timepoint fully auditable	0	22	Full satisfaction at this and every preceding level; partial evidence not counted as a pass
+6	Directly portable without refitting	0	22	Full satisfaction at this and every preceding level; partial evidence not counted as a pass

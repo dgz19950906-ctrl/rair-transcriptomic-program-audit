@@ -1,0 +1,28 @@
+donor	difference	dataset	signature_id	target_compartment	annotation_method	program	method
+P1	1.01977256461302	GSE191288	CONDELLO_2025_SIX	T & NK cells	primary_hybrid	Condello-6	Primary hybrid
+P2	0.843232793874872	GSE191288	CONDELLO_2025_SIX	T & NK cells	primary_hybrid	Condello-6	Primary hybrid
+P3	1.14060626279392	GSE191288	CONDELLO_2025_SIX	T & NK cells	primary_hybrid	Condello-6	Primary hybrid
+P1	2.50346514108948	GSE191288	IODIDE_HANDLING_11	Thyroid cells	primary_hybrid	Iodide handling-11	Primary hybrid
+P2	2.21931275382692	GSE191288	IODIDE_HANDLING_11	Thyroid cells	primary_hybrid	Iodide handling-11	Primary hybrid
+P3	1.9080458680825	GSE191288	IODIDE_HANDLING_11	Thyroid cells	primary_hybrid	Iodide handling-11	Primary hybrid
+P1	2.14698561937961	GSE191288	TDS_16	Thyroid cells	primary_hybrid	TDS-16	Primary hybrid
+P2	1.88798277511933	GSE191288	TDS_16	Thyroid cells	primary_hybrid	TDS-16	Primary hybrid
+P3	1.4234930187231	GSE191288	TDS_16	Thyroid cells	primary_hybrid	TDS-16	Primary hybrid
+P1	2.14698561937961	GSE191288	TDS_16	Thyroid cells	leave_program_genes_out_hybrid	TDS-16	Leave-program-genes-out
+P2	1.88798277511933	GSE191288	TDS_16	Thyroid cells	leave_program_genes_out_hybrid	TDS-16	Leave-program-genes-out
+P3	1.4234930187231	GSE191288	TDS_16	Thyroid cells	leave_program_genes_out_hybrid	TDS-16	Leave-program-genes-out
+P1	1.72663636741913	GSE191288	TDS_16	Thyroid cells	SingleR_only	TDS-16	SingleR only
+P2	1.25822875349056	GSE191288	TDS_16	Thyroid cells	SingleR_only	TDS-16	SingleR only
+P3	1.17305058440826	GSE191288	TDS_16	Thyroid cells	SingleR_only	TDS-16	SingleR only
+P1	2.50346514108948	GSE191288	IODIDE_HANDLING_11	Thyroid cells	leave_program_genes_out_hybrid	Iodide handling-11	Leave-program-genes-out
+P2	2.21931275382692	GSE191288	IODIDE_HANDLING_11	Thyroid cells	leave_program_genes_out_hybrid	Iodide handling-11	Leave-program-genes-out
+P3	1.9080458680825	GSE191288	IODIDE_HANDLING_11	Thyroid cells	leave_program_genes_out_hybrid	Iodide handling-11	Leave-program-genes-out
+P1	1.87836004099177	GSE191288	IODIDE_HANDLING_11	Thyroid cells	SingleR_only	Iodide handling-11	SingleR only
+P2	1.2553942103546	GSE191288	IODIDE_HANDLING_11	Thyroid cells	SingleR_only	Iodide handling-11	SingleR only
+P3	1.40048193644066	GSE191288	IODIDE_HANDLING_11	Thyroid cells	SingleR_only	Iodide handling-11	SingleR only
+P1	1.01977256461302	GSE191288	CONDELLO_2025_SIX	T & NK cells	leave_program_genes_out_hybrid	Condello-6	Leave-program-genes-out
+P2	0.843232793874872	GSE191288	CONDELLO_2025_SIX	T & NK cells	leave_program_genes_out_hybrid	Condello-6	Leave-program-genes-out
+P3	1.14060626279392	GSE191288	CONDELLO_2025_SIX	T & NK cells	leave_program_genes_out_hybrid	Condello-6	Leave-program-genes-out
+P1	0.9713085964793	GSE191288	CONDELLO_2025_SIX	T & NK cells	SingleR_only	Condello-6	SingleR only
+P2	0.8216460158718	GSE191288	CONDELLO_2025_SIX	T & NK cells	SingleR_only	Condello-6	SingleR only
+P3	0.951133574946513	GSE191288	CONDELLO_2025_SIX	T & NK cells	SingleR_only	Condello-6	SingleR only

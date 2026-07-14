@@ -1,0 +1,7 @@
+parameter	frozen_value	unit_or_encoding	rationale_or_action	lock_date
+minimum_cells_per_donor_cell_type	20	post-QC_cells	Below threshold mark insufficient_cells; do not create pseudobulk or encode zero expression	2026-07-12
+minimum_contributing_donors_per_lodo_iteration	3	donors	Below threshold mark cell type not_estimable for that iteration; do not count as reversal	2026-07-12
+minimum_estimable_lodo_iterations_for_main_text	9	of_11_iterations	Lower coverage remains descriptive or Supplementary	2026-07-12
+lodo_consistency_denominator	estimable_iterations_only	count	Report same-direction estimable iterations / all estimable iterations and estimable iterations / 11	2026-07-12
+threshold_adaptation_after_scoring	prohibited	boolean	Do not change thresholds after inspecting cell-type coverage or program effects	2026-07-12
+main_figure_cross_atlas_rule	AND	GSE184362_GSE191288_GSE281736	All three atlases must show the same direction; one discordant atlas means inconsistency and moves the cellular layer to Supplementary	2026-07-12

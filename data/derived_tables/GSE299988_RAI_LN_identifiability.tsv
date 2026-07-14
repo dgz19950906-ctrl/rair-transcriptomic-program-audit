@@ -1,0 +1,2 @@
+test	p_value	phi	interpretation
+Fisher_exact_two_sided	0.00793650793650794	1	deterministic_co-linearity

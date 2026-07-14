@@ -1,0 +1,17 @@
+{
+  "freeze_date": "2026-07-12",
+  "database_records": {
+    "PubMed": 702,
+    "Europe_PMC": 157,
+    "Semantic_Scholar_top100": 100
+  },
+  "database_records_raw_total": 959,
+  "database_records_unique_before_citation_search": 797,
+  "citation_search_candidates": 95,
+  "unique_records_after_automated_deduplication": 892,
+  "pubmed_full_text_advanced": 21,
+  "supplementary_source_full_text_advanced": 1,
+  "total_full_text_or_code_audited": 22,
+  "geo_dataset_records_reported_separately": 27,
+  "semantic_scholar_limitation": "Top 100 of 242 relevance-ranked results retrieved before API rate limiting; not treated as an exhaustive database export."
+}
