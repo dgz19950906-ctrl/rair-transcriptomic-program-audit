@@ -13,6 +13,7 @@ authors:
     affiliation: "Department of Head & Neck Surgery, The Affiliated Cancer Hospital of Nanjing Medical University & Jiangsu Cancer Hospital & Jiangsu Institute of Cancer Research, Nanjing 210009, China"
 version: 1.0.0
 date-released: 2026-07-14
+doi: "10.5281/zenodo.21352690"
 license: MIT
 repository-code: "https://github.com/dgz19950906-ctrl/rair-transcriptomic-program-audit"
 url: "https://github.com/dgz19950906-ctrl/rair-transcriptomic-program-audit/releases/tag/v1.0.0"

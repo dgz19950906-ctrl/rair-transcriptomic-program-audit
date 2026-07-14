@@ -34,10 +34,11 @@ radioiodine-refractory thyroid cancer; transcriptomics; reproducibility; biomark
 - Original source/derived tables: CC BY 4.0
 - Third-party inputs: original provider terms
 
-## Repository and persistent-identifier plan
+## Repository and persistent identifiers
 
 - Public repository: https://github.com/dgz19950906-ctrl/rair-transcriptomic-program-audit
 - Version 1.0.0 release: https://github.com/dgz19950906-ctrl/rair-transcriptomic-program-audit/releases/tag/v1.0.0
-- Zenodo DOI: pending verified archival of release `v1.0.0`
+- Zenodo version DOI: https://doi.org/10.5281/zenodo.21352690
+- Zenodo concept DOI: https://doi.org/10.5281/zenodo.21352689
 
-The Zenodo concept DOI and version DOI will be added to the manuscript, README and `CITATION.cff` only after their landing pages resolve.
+Both Zenodo DOI landing pages were verified after archival of release `v1.0.0`.

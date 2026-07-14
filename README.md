@@ -38,7 +38,7 @@ Original software in `code/` is released under the MIT License (`LICENSE`). Orig
 
 ## Citation
 
-Until the accompanying article and repository DOI are available, cite this release using `CITATION.cff`. The final Zenodo DOI and article DOI should be added to a tagged release without rewriting version 1.0.0.
+Version 1.0.0 is permanently archived in Zenodo (version DOI: https://doi.org/10.5281/zenodo.21352690; concept DOI: https://doi.org/10.5281/zenodo.21352689). Cite the software release using `CITATION.cff`.
 
 Repository: https://github.com/dgz19950906-ctrl/rair-transcriptomic-program-audit
 
